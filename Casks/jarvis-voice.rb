@@ -1,6 +1,6 @@
 cask "jarvis-voice" do
-  version "1.0.0"
-  sha256 "f49845a8dcc79940f7b68ebb69e56999a0be388345faa9820e7646332d000642"
+  version "1.1.0"
+  sha256 "99d55035cd54dee312db78ee9c57e8b634bbd7a50af4dbd3e9ff0585f80cd8fb"
 
   url "https://github.com/urusaqqrun/jarvis-voice/releases/download/v#{version}/JarvisVoice-#{version}.dmg"
   name "JarvisVoice"
